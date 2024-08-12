@@ -195,24 +195,3 @@
 
 ![benchmark-accuracy](./assets/benchmark-accuracy.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-```cpp
-/*
-	- own
-		- eq: 115.63612723350525s / 50it
-		- tb: 74.13312292098999s / 50it
-		- layout: 41.401313066482544s /50it
-*/
-```
-
