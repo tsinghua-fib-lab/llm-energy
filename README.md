@@ -1,5 +1,7 @@
 # llm-energy-doc-tool
 
+简体中文 | [English](https://github.com/tsinghua-fib-lab/llm-energy-doc-tool/blob/main/README_en.md)
+
 本工具将政策文件解析为 markdown，最终转换为格式化的 json 文件 。
 
 ## 工作流程
