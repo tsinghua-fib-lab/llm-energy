@@ -22,6 +22,10 @@ This tool parses the policy file into a markdown and eventually converts it into
 
 ![sample-markdown](./assets/sample-markdown.png)
 
+- Sample downloading
+
+  [Original PDF](https://www.cnstock.com/image/202111/24/20211124114327324.pdf) | [Convert Result](https://github.com/tsinghua-fib-lab/llm-energy-doc-tool/blob/main/assets/sample.md)
+
 ##  Usage
 
 1. `clone` this project：
@@ -191,11 +195,22 @@ We randomly selected 50 pages containing formulas and tables from a large number
 
 We transformed the 150 samples through various tools and checked them manually. The performance of each tool is shown in the figure below:
 
+### Policy
+
 - Speed
 
-  ![benchmark-speed](./assets/benchmark-speed.png)
+![benchmark-speed-policy](./assets/benchmark-speed-policy.png)
 
 - Accuracy
 
-![benchmark-accuracy](./assets/benchmark-accuracy.png)
+![benchmark-accuracy-policy](./assets/benchmark-accuracy-policy.png)
 
+### Book
+
+- Speed
+
+![benchmark-speed-book](./assets/benchmark-speed-book.png)
+
+- Accuracy
+
+![benchmark-accuracy-book](./assets/benchmark-accuracy-book.png)

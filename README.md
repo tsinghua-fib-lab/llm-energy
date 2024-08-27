@@ -22,6 +22,10 @@
 
 ![sample-markdown](./assets/sample-markdown.png)
 
+- 样例下载
+
+  [PDF原文件](https://www.cnstock.com/image/202111/24/20211124114327324.pdf) | [转换结果](https://github.com/tsinghua-fib-lab/llm-energy-doc-tool/blob/main/assets/sample.md)
+
 ## 使用方法
 
 1. `clone` 本项目：
@@ -189,11 +193,23 @@
 
 我们将这150个样本通过各工具进行转换，并进行人工检查。各工具的表现情况如下图：
 
+### 政策文件
+
 - 速度
 
-  ![benchmark-speed](./assets/benchmark-speed.png)
+![benchmark-speed-policy](./assets/benchmark-speed-policy.png)
 
 - 准确性
 
-![benchmark-accuracy](./assets/benchmark-accuracy.png)
+![benchmark-accuracy-policy](./assets/benchmark-accuracy-policy.png)
+
+### 图书
+
+- 速度
+
+![benchmark-speed-book](./assets/benchmark-speed-book.png)
+
+- 准确性
+
+![benchmark-accuracy-book](./assets/benchmark-accuracy-book.png)
 
