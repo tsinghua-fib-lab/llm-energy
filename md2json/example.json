@@ -1,0 +1,30 @@
+{
+    "title": "output",
+    "subtree": [
+        {
+            "title": "第一章",
+            "subtree": [
+                {
+                    "title": "第一条",
+                    "subtree": []
+                },
+                {
+                    "title": "第二条",
+                    "subtree": []
+                },
+                {
+                    "title": "第三条",
+                    "subtree": []
+                },
+                {
+                    "title": "第四条",
+                    "subtree": []
+                },
+                {
+                    "title": "第五条",
+                    "subtree": []
+                }
+            ]
+        }
+    ]
+}
