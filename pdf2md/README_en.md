@@ -140,7 +140,7 @@ This tool parses the policy file into a markdown and eventually converts it into
            2. Download Model：
         
               1. in [1. Chinese Detection Model](https://github.com/PaddlePaddle/PaddleOCR/blob/main/doc/doc_en/models_list_en.md#1.1) to download the `ch_PP-OCRv4_server_det` model. Unzip it and place it in the `PaddleOCR/ppstructure/inference` directories；
-              2. in [2.1 Chinese Recognition Model](https://github.com/PaddlePaddle/PaddleOCR/blob/main/doc/doc_en/models_list_en.md#21-chinese-recognition-model) to download the `ch_PP-OCRv4_server_rec` model. Unzip it and place it in the  `PaddleOCR/ppstructure/inference` 和 `PaddleOCR/ppocr/inference` directories；
+              2. in [2.1 Chinese Recognition Model](https://github.com/PaddlePaddle/PaddleOCR/blob/main/doc/doc_en/models_list_en.md#21-chinese-recognition-model) to download the `ch_PP-OCRv4_server_rec` model. Unzip it and place it in the  `PaddleOCR/ppstructure/inference` and `PaddleOCR/ppocr/inference` directories；
               3. in [2.2 Table Recognition](https://github.com/PaddlePaddle/PaddleOCR/blob/main/ppstructure/docs/models_list_en.md#22-table-recognition) to download the `ch_ppstructure_mobile_v2.0_SLANet` model. Unzip it and place it in the`PaddleOCR/ppstructure/inference`directories；
         
            3. Install other dependent packages
