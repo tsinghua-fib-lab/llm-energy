@@ -1,0 +1,32 @@
+[
+	{
+		category: what,
+		question: 什么是电力辅助服务市场？
+		answer: 电力辅助服务市场是指为了维持电力系统的稳定和可靠运行，电力公司提供或购买的一系列服务。
+	}，
+	{
+		category: when,
+		question: 山东省电力辅助服务市场什么时候开始试运行？
+		answer: 2022年07月01日
+	}，
+	{
+		category: how,
+		question: 无
+		answer: 无
+	},
+	{
+		category: why,
+		question: 无
+		answer: 无
+	},
+	{
+		category: list the main points,
+		question: 山东的电力辅助服务分类和具体品种有哪些？
+		answer: 调频、备用、调峰和紧急支援等服务
+	},
+	{
+		category: difference,
+		question: 无
+		answer: 无
+	}
+]
