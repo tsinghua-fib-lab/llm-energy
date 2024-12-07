@@ -1,7 +1,7 @@
 import json
 import sys
 import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../bench_multi_choice')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
 from utils import config_model, generate_response_text, save_json
 
 API_KEY = 'DEFINE_YOUR_API_SERVICE_KEY'

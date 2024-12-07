@@ -2,7 +2,7 @@ import json
 import requests
 import sys
 import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../bench_multi_choice')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
 from utils import save_json
 
 model_name = input('Please input the model name: ')
