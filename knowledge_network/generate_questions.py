@@ -9,7 +9,7 @@ import random
 API_KEY = 'DEFINE_API_SERVICE_KEY'
 BASE_URL = 'DEFINE_API_BASE_URL'
 MODEL_NAME = 'DEFINE_MODEL_NAME'
-model = config_model()
+model = config_model(API_KEY, BASE_URL)
 
 def list_subdirectories(directory):
     return [name for name in os.listdir(directory) if os.path.isdir(os.path.join(directory, name))]

@@ -13,7 +13,7 @@ file_name = f'../extract_short_questions/{model_name}.json'
 with open('../extract_short_questions/API-inference.json', 'r') as f:
     short_answer = json.load(f)
 
-model = config_model()
+model = config_model(API_KEY, BASE_URL)
 
 url = "http://localhost:8000/v1/chat/completions"
 
