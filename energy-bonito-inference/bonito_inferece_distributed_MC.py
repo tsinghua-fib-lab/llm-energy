@@ -2,7 +2,6 @@ import requests
 import json
 import re
 import concurrent.futures
-import time
 
 # Deploy Energy Bonito to the local server and use the local API for inference
 

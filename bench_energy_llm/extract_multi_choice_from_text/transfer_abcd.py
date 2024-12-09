@@ -16,6 +16,7 @@ def convert_option_list(option_list):
         opt = map_number_to_letter(index + 1)
         option_list[index] = opt + '. ' + option_list[index]
 
+# usage sample
 with open('test_multi_choice.json', 'r') as f:
     paper = json.load(f)
     
