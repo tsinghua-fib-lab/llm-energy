@@ -1,0 +1,4 @@
+[submodule "generate_based_on_graphrag/graphrag"]
+	path = generate_based_on_graphrag/graphrag
+	url = https://github.com/tsinghua-fib-lab/graphrag.git
+	branch = v0.3.2-energy
