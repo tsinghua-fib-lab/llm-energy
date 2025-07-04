@@ -1,4 +1,6 @@
 # Energy-LLM
+Codes for "Developing a Domain-Specific Large Language Model for Energy Knowledge and Policy"
+
 
 Since the entire pipeline involves numerous LLM API operations, and we allow users to configure different API services for each operation, please pay attention to several configurable API-related constants in the script for operations that require API calls.
 
@@ -142,6 +144,3 @@ After using the data generated from the previous processes to train your Energy-
   ```
   python grade_short_answer.py
   ```
-
-  
-
